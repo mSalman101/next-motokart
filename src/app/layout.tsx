@@ -7,7 +7,7 @@ import SessionProvider from "./SessionProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "MotoHub",
+  title: "Motokart",
   description: "Apni Gaadi, Apne Sapne.",
 };
 
